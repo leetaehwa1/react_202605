@@ -19,7 +19,7 @@ function App(){
         }}>클릭</button>
         <hr></hr>
         {toggle ?
-            <Test contetns="자바"></Test>:
+            <Test contents="자바"></Test>:
             <Test contents="오라클"></Test>
         }
         
